@@ -1,18 +1,18 @@
-PWD /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics
+PWD /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.tex
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.log
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.tex
+OUTPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.log
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/doc_conf.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/doc_conf.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/inlcude.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/inlcude.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -278,8 +278,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/catchfile/catchfile.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 INPUT /dev/null
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.w18
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.w18
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.w18
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.w18
 INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
@@ -289,133 +289,36 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/lt2circuitikz-master/latex_ext.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/lt2circuitikz-master/latex_ext.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransformations.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.IEC.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.IEC.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/Conf.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/Conf.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/macros.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/macros.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.aex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.aex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.aux
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.aux
+OUTPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
+OUTPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.pdf
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
+OUTPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -424,10 +327,19 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
-INPUT /usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
-INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/title_page.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/title_page.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/uon.png
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/uon.png
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/uon.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -439,91 +351,35 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/title_page.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/title_page.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/uon.png
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/uon.png
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/uon.png
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.toc
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.toc
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.toc
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q1/Q1.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q1/Q1.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q2/Q2.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q2/Q2.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q3/Q3.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q3/Q3.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q6/Q6.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q6/Q6.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q7/Q7.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q7/Q7.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q8/Q8.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q8/Q8.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q9/Q9.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q9/Q9.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q13/Q13.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q13/Q13.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q14/Q14.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q14/Q14.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q15/Q15.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q15/Q15.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q16/Q16.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q16/Q16.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q17/Q17.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q17/Q17.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.toc
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+OUTPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/Exercise1.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/Exercise1.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/matlab/Ex1.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/matlab/Ex1.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/Exercise2.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/inc/Exercise2.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/matlab/Ex2.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/matlab/Ex2.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/matlab/Ex2_2.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/matlab/Ex2_2.tex
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.bbl
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.bbl
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.aux
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
+INPUT /home/g/Uni code/Electrical Energy Conditioning and Control (EEEE2045 UNUK)/EEEE2045 Control Coursework/main.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
