@@ -1,10 +1,10 @@
 \begin{figure}[ht!]
 \centering
 \begin{tikzpicture}[>=latex',shorten >=1pt,node distance=3cm,on grid,auto]
-    \node[state] (S0) {$\frac{S0}{0}$};
-    \node[state] (S1) [below=of S0] {$\frac{S1}{0}$};
-    \node[state] (S2) [below=of S1] {$\frac{S2}{0}$};
-    \node[state] (S3) [below=of S2] {$\frac{S3}{1}$};
+    \node[state with output] (S0) {$S_0$ \nodepart{lower} $0$};
+    \node[state with output] (S1) [below=of S0] {$S_1$ \nodepart{lower} $0$};
+    \node[state with output] (S2) [below=of S1] {$S_2$ \nodepart{lower} $0$};
+    \node[state with output] (S3) [below=of S2] {$S_3$ \nodepart{lower} $1$};
 
     \path[->] (S0) edge node {1} (S1);
     \path[->] (S1) edge node {0} (S2);
