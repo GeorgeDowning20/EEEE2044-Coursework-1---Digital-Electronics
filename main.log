@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.10.5)  6 NOV 2022 23:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.10.5)  7 NOV 2022 21:23
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -624,28 +624,47 @@ LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 209.
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/hhline.sty
 Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip69
+\subfigcapskip=\skip70
+\subfigcaptopadj=\dimen290
+\subfigbottomskip=\skip71
+\subfigcapmargin=\dimen291
+\subfiglabelskip=\skip72
+\c@subfigure=\count327
+\c@lofdepth=\count328
+\c@subtable=\count329
+\c@lotdepth=\count330
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip73
+\subfig@bottom=\skip74
 ) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
-\multirow@colwidth=\skip69
-\multirow@cntb=\count327
-\multirow@dima=\skip70
-\bigstrutjot=\dimen290
+\multirow@colwidth=\skip75
+\multirow@cntb=\count331
+\multirow@dima=\skip76
+\bigstrutjot=\dimen292
 ) (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box68
 \UL@hyphenbox=\box69
-\UL@skip=\skip71
+\UL@skip=\skip77
 \UL@hook=\toks45
-\UL@height=\dimen291
-\UL@pe=\count328
-\UL@pixel=\dimen292
+\UL@height=\dimen293
+\UL@pe=\count332
+\UL@pixel=\dimen294
 \ULC@box=\box70
 Package: ulem 2019/11/18
-\ULdepth=\dimen293
+\ULdepth=\dimen295
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
 File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\arrowsize=\dimen294
+\arrowsize=\dimen296
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautomata.code.tex
 File: tikzlibraryautomata.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
@@ -680,109 +699,109 @@ Package: circuitikz 2020/02/04{} The CircuiTikz circuit drawing package version 
 File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowinset=\dimen295
-\pgfarrowlength=\dimen296
-\pgfarrowwidth=\dimen297
-\pgfarrowlinewidth=\dimen298
+\pgfarrowinset=\dimen297
+\pgfarrowlength=\dimen298
+\pgfarrowwidth=\dimen299
+\pgfarrowlinewidth=\dimen300
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybending.code.tex
 File: tikzlibrarybending.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.code.tex
 File: pgfmodulebending.code.tex 2020/01/08 v3.1.5b (3.1.5b)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineartransformations.code.tex
 File: pgfmodulenonlineartransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgftransformnonlinearflatness=\dimen299
+\pgftransformnonlinearflatness=\dimen301
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvilinear.code.tex
 File: pgflibrarycurvilinear.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@curvilinear@time@a=\dimen300
-\pgf@curvilinear@length@a=\dimen301
-\pgf@curvilinear@length@b=\dimen302
-\pgf@curvilinear@length@c=\dimen303
-\pgf@curvilinear@length@d=\dimen304
+\pgf@curvilinear@time@a=\dimen302
+\pgf@curvilinear@length@a=\dimen303
+\pgf@curvilinear@length@b=\dimen304
+\pgf@curvilinear@length@c=\dimen305
+\pgf@curvilinear@length@d=\dimen306
 )
-\pgf@arrows@the@rigidity=\dimen305
+\pgf@arrows@the@rigidity=\dimen307
 )) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
-\pgf@circ@count@a=\count329
-\pgf@circ@count@b=\count330
-\pgf@circ@count@c=\count331
-\pgf@circ@res@up=\dimen306
-\pgf@circ@res@down=\dimen307
-\pgf@circ@res@zero=\dimen308
-\pgf@circ@res@left=\dimen309
-\pgf@circ@res@right=\dimen310
-\pgf@circ@res@other=\dimen311
-\pgf@circ@res@step=\dimen312
-\pgf@circ@res@temp=\dimen313
-\pgfstartlinewidth=\dimen314
-\pgf@circ@Rlen=\dimen315
-\pgf@circ@scaled@Rlen=\dimen316
+\pgf@circ@count@a=\count333
+\pgf@circ@count@b=\count334
+\pgf@circ@count@c=\count335
+\pgf@circ@res@up=\dimen308
+\pgf@circ@res@down=\dimen309
+\pgf@circ@res@zero=\dimen310
+\pgf@circ@res@left=\dimen311
+\pgf@circ@res@right=\dimen312
+\pgf@circ@res@other=\dimen313
+\pgf@circ@res@step=\dimen314
+\pgf@circ@res@temp=\dimen315
+\pgfstartlinewidth=\dimen316
+\pgf@circ@Rlen=\dimen317
+\pgf@circ@scaled@Rlen=\dimen318
 ) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
-\pgf@circ@res@count=\count332
+\pgf@circ@res@count=\count336
 ) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex) (/usr/share/texlive/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2020-02-14 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count333
+\l__kernel_color_stack_int=\count337
 \l__pdf_internal_box=\box91
 )) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2020-02-14 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count334
-\g__xparse_grabber_int=\count335
-\l__xparse_m_args_int=\count336
-\l__xparse_v_nesting_int=\count337
+\l__xparse_current_arg_int=\count338
+\g__xparse_grabber_int=\count339
+\l__xparse_m_args_int=\count340
+\l__xparse_v_nesting_int=\count341
 )
 Package: siunitx 2020/01/15 v2.7u A comprehensive (SI) units package
  (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen317
+\col@sep=\dimen319
 \ar@mcellbox=\box92
-\extrarowheight=\dimen318
+\extrarowheight=\dimen320
 \NC@list=\toks46
-\extratabsurround=\skip72
-\backup@length=\skip73
+\extratabsurround=\skip78
+\backup@length=\skip79
 \ar@cellbox=\box93
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box94
-\l__siunitx_tmp_dim=\dimen319
-\l__siunitx_tmp_int=\count338
-\l__siunitx_number_mantissa_length_int=\count339
-\l__siunitx_number_uncert_length_int=\count340
-\l__siunitx_round_int=\count341
-\l__siunitx_process_decimal_int=\count342
-\l__siunitx_process_uncertainty_int=\count343
-\l__siunitx_process_fixed_int=\count344
-\l__siunitx_process_integer_min_int=\count345
-\l__siunitx_process_precision_int=\count346
-\l__siunitx_group_min_int=\count347
+\l__siunitx_tmp_dim=\dimen321
+\l__siunitx_tmp_int=\count342
+\l__siunitx_number_mantissa_length_int=\count343
+\l__siunitx_number_uncert_length_int=\count344
+\l__siunitx_round_int=\count345
+\l__siunitx_process_decimal_int=\count346
+\l__siunitx_process_uncertainty_int=\count347
+\l__siunitx_process_fixed_int=\count348
+\l__siunitx_process_integer_min_int=\count349
+\l__siunitx_process_precision_int=\count350
+\l__siunitx_group_min_int=\count351
 \l__siunitx_angle_marker_box=\box95
 \l__siunitx_angle_unit_box=\box96
-\l__siunitx_angle_marker_dim=\dimen320
-\l__siunitx_angle_unit_dim=\dimen321
-\l__siunitx_unit_int=\count348
-\l__siunitx_unit_denominator_int=\count349
-\l__siunitx_unit_numerator_int=\count350
-\l__siunitx_unit_prefix_int=\count351
-\l__siunitx_unit_prefix_base_int=\count352
-\l__siunitx_unit_prefix_gram_int=\count353
-\l__siunitx_number_product_int=\count354
-\c__siunitx_one_fill_skip=\skip74
-\l__siunitx_table_unit_align_skip=\skip75
-\l__siunitx_table_exponent_dim=\dimen322
-\l__siunitx_table_integer_dim=\dimen323
-\l__siunitx_table_mantissa_dim=\dimen324
-\l__siunitx_table_marker_dim=\dimen325
-\l__siunitx_table_result_dim=\dimen326
-\l__siunitx_table_uncert_dim=\dimen327
-\l__siunitx_table_fill_pre_dim=\dimen328
-\l__siunitx_table_fill_post_dim=\dimen329
-\l__siunitx_table_fill_mid_dim=\dimen330
+\l__siunitx_angle_marker_dim=\dimen322
+\l__siunitx_angle_unit_dim=\dimen323
+\l__siunitx_unit_int=\count352
+\l__siunitx_unit_denominator_int=\count353
+\l__siunitx_unit_numerator_int=\count354
+\l__siunitx_unit_prefix_int=\count355
+\l__siunitx_unit_prefix_base_int=\count356
+\l__siunitx_unit_prefix_gram_int=\count357
+\l__siunitx_number_product_int=\count358
+\c__siunitx_one_fill_skip=\skip80
+\l__siunitx_table_unit_align_skip=\skip81
+\l__siunitx_table_exponent_dim=\dimen324
+\l__siunitx_table_integer_dim=\dimen325
+\l__siunitx_table_mantissa_dim=\dimen326
+\l__siunitx_table_marker_dim=\dimen327
+\l__siunitx_table_result_dim=\dimen328
+\l__siunitx_table_uncert_dim=\dimen329
+\l__siunitx_table_fill_pre_dim=\dimen330
+\l__siunitx_table_fill_post_dim=\dimen331
+\l__siunitx_table_fill_mid_dim=\dimen332
 \l__siunitx_table_pre_box=\box97
 \l__siunitx_table_post_box=\box98
 \l__siunitx_table_mantissa_box=\box99
 \l__siunitx_table_result_box=\box100
-\l__siunitx_table_number_align_skip=\skip76
-\l__siunitx_table_text_align_skip=\skip77
+\l__siunitx_table_number_align_skip=\skip82
+\l__siunitx_table_text_align_skip=\skip83
  (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
@@ -816,13 +835,15 @@ File: tikzlibrarybackgrounds.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@layerbox@background=\box101
 \pgf@layerboxsaved@background=\box102
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.IEC.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.ee.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/circuits/tikzlibrarycircuits.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex))
-\tikz@lib@circ@count=\count355
-\tikzcircuitssizeunit=\dimen331
+\tikz@lib@circ@count=\count359
+\tikzcircuitssizeunit=\dimen333
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex))) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/Conf.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex
 File: tikzlibraryangles.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
 File: tikzlibraryquotes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-)) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/macros.tex)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/macros.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/Kmaps/Kmaps.tex)
 runsystem(which pygmentize && touch main.aex)...executed.
 
 runsystem(rm main.aex)...executed.
@@ -830,24 +851,24 @@ runsystem(rm main.aex)...executed.
  (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 \AtBeginShipoutBox=\box103
-Package hyperref Info: Link coloring ON on input line 7.
+Package hyperref Info: Link coloring ON on input line 8.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -855,11 +876,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count356
+\c@section@level=\count360
 )
-LaTeX Info: Redefining \ref on input line 7.
-LaTeX Info: Redefining \pageref on input line 7.
-LaTeX Info: Redefining \nameref on input line 7.
+LaTeX Info: Redefining \ref on input line 8.
+LaTeX Info: Redefining \pageref on input line 8.
+LaTeX Info: Redefining \nameref on input line 8.
  (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
@@ -868,16 +889,16 @@ LaTeX Info: Redefining \nameref on input line 7.
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 ) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count357
-\scratchdimen=\dimen332
+\scratchcounter=\count361
+\scratchdimen=\dimen334
 \scratchbox=\box104
-\nofMPsegments=\count358
-\nofMParguments=\count359
+\nofMPsegments=\count362
+\nofMParguments=\count363
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count360
-\MPscratchDim=\dimen333
-\MPnumerator=\count361
-\makeMPintoPDFobject=\count362
+\MPscratchCnt=\count364
+\MPscratchDim=\dimen335
+\MPnumerator=\count365
+\makeMPintoPDFobject=\count366
 \everyMPtoPDFconversion=\toks48
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -892,11 +913,11 @@ Dictionary: translator-basic-dictionary, Language: English
 ) (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/title_page.tex
@@ -914,52 +935,74 @@ Package pdftex.def Info: uon.png  used on input line 4.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 
-      [1] (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q1/Q1.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q2/Q2.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q3/Q3.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q6/Q6.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q7/Q7.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q8/Q8.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q9/Q9.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q13/Q13.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q14/Q14.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q15/Q15.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q16/Q16.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q17/Q17.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.bbl
+l.23 
+      [1] (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q1/Q1.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q2/Q2.tex [2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.35     \end{table}\FloatBarrier
+                                 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.35     \end{table}\FloatBarrier
+                                 ]) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q3/Q3.tex [3pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.40 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.40 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.40 
+     ]) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.tex
+<inc/Q/Q4/Q4.pdf, id=153, 498.86375pt x 237.88875pt>
+File: inc/Q/Q4/Q4.pdf Graphic file (type pdf)
+<use inc/Q/Q4/Q4.pdf>
+Package pdftex.def Info: inc/Q/Q4/Q4.pdf  used on input line 3.
+(pdftex.def)             Requested size: 384.68576pt x 183.44713pt.
+) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.tex
+<inc/Q/Q5/Q5.pdf, id=154, 541.02126pt x 262.9825pt>
+File: inc/Q/Q5/Q5.pdf Graphic file (type pdf)
+<use inc/Q/Q5/Q5.pdf>
+Package pdftex.def Info: inc/Q/Q5/Q5.pdf  used on input line 3.
+(pdftex.def)             Requested size: 384.68576pt x 186.99574pt.
+) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q6/Q6.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q7/Q7.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q8/Q8.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q9/Q9.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q13/Q13.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q14/Q14.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q15/Q15.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q16/Q16.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q17/Q17.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex) (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 25.
 
-) [2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+) [4 </home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.pdf> </home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.pdf
 
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.190 \end{document}
-                    pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.190 \end{document}
-                    ]
-Overfull \vbox (178.16238pt too high) has occurred while \output is active []
-
- [3pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.190 \end{document}
-                    ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 190.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 190.
+pdfTeX warning: pdflatex (file /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
  (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 190.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 190.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F99694EB44DF991CB4366C1270EF2B54;1002.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 190.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
  ) 
 Here is how much of TeX's memory you used:
- 48388 strings out of 481239
- 1261856 string characters out of 5920377
- 1812759 words of memory out of 5000000
- 62731 multiletter control sequences out of 15000+600000
+ 48876 strings out of 481239
+ 1270958 string characters out of 5920377
+ 1827024 words of memory out of 5000000
+ 63198 multiletter control sequences out of 15000+600000
  544030 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,16n,113p,1078b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.pdf" (4 pages, 105680 bytes).
+ 67i,16n,113p,1078b,1087s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.pdf" (6 pages, 158066 bytes).
 PDF statistics:
- 174 PDF objects out of 1000 (max. 8388607)
- 157 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 219 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
