@@ -1,0 +1,17 @@
+The number of flip flops required is $\left \lceil{\sqrt{n}}\right \rceil $ where $n$ is the number of states. In this case, $n=5$ so $\left \lceil{\sqrt{5}}\right \rceil =3$ flip flops are required. The flip-flip state allocation is shown in table~\ref{tab:Q14} below.
+
+
+\begin{table}[ht!]
+    \centering
+    \begin{tabular}{|c||ccc|}
+        \hline
+        \multirow{2}{*}{State} & \multicolumn{3}{c|}{Flip Flop Output}                           \\ \cline{2-4} 
+                               & \multicolumn{1}{c|}{$Q^A$} & \multicolumn{1}{c|}{$Q^B$} & $Q^C$ \\ \hhline{|=||=|=|=|} 
+        $S_0$                  & \multicolumn{1}{c|}{0}     & \multicolumn{1}{c|}{0}     & 0     \\ \hline
+        $S_1$                  & \multicolumn{1}{c|}{0}     & \multicolumn{1}{c|}{0}     & 1     \\ \hline
+        $S_2$                  & \multicolumn{1}{c|}{0}     & \multicolumn{1}{c|}{1}     & 0     \\ \hline
+        $S_3$                  & \multicolumn{1}{c|}{0}     & \multicolumn{1}{c|}{1}     & 1     \\ \hline
+        $S_4$                  & \multicolumn{1}{c|}{1}     & \multicolumn{1}{c|}{0}     & 0     \\ \hline
+        \end{tabular}
+    \caption{Flip Flop State Allocation}\label{tab:Q14}
+    \end{table}
