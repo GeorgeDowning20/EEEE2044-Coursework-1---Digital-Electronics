@@ -306,6 +306,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
@@ -549,12 +551,17 @@ INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q17/Q17.tex
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex
+INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/mytestpwl.txt
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex
+INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.pdf
+INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.pdf
+INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.pdf
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.bbl
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.bbl
+INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.pdf
+INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.pdf
+INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.pdf
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
 INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
@@ -567,3 +574,4 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb

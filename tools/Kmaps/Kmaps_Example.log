@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.10.5)  7 NOV 2022 00:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.10.5)  8 NOV 2022 22:00
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -299,21 +299,17 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-Missing character: There is no a in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no b in font nullfont!
- [1
+)) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/Kmaps/Kmaps_Example.aux) ) 
 Here is how much of TeX's memory you used:
  12415 strings out of 481239
  255635 string characters out of 5920377
- 482564 words of memory out of 5000000
+ 482562 words of memory out of 5000000
  27476 multiletter control sequences out of 15000+600000
  532338 words of font info for 24 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,15n,69p,554b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,15n,71p,554b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 Output written on "/home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/Kmaps/Kmaps_Example.pdf" (1 page, 12436 bytes).
 PDF statistics:

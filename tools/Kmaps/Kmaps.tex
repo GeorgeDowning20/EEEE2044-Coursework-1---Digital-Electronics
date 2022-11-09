@@ -23,11 +23,11 @@
     \fill[rounded corners=3pt, fill=#2, opacity=.3] ($(cf.west |- 10.north)+(90:#1)$) -| ($(10.west |- rf.north)+(180:#1)$) [sharp corners] ($(cf.west |- 10.north)+(90:#1)$) |- ($(10.west |- rf.north)+(180:#1)$) ;
 }
 
-\newenvironment{Karnaugh}%
+\newenvironment{Karnaugh}[2]%
 {
 \begin{tikzpicture}[baseline=(current bounding box.north),scale=0.8]
 \draw (0,0) grid (4,4);
-\draw (0,4) -- node [pos=0.7,above right,anchor=south west] {cd} node [pos=0.7,below left,anchor=north east] {ab} ++(135:1);
+\draw (0,4) -- node [pos=1,above right,anchor=south west] {#1} node [pos=1,below left,anchor=north east] {#2} ++(135:1);
 %
 \matrix (mapa) [matrix of nodes,
         column sep={0.8cm,between origins},
