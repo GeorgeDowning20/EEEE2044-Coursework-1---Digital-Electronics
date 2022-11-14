@@ -17,5 +17,5 @@
 \contentsline {section}{Question 16}{12}{section*.17}%
 \contentsline {section}{Question 17}{13}{section*.18}%
 \contentsline {section}{Question 18}{15}{section*.19}%
-\contentsline {section}{Question 19}{17}{section*.20}%
-\contentsline {section}{Question 20}{18}{section*.21}%
+\contentsline {section}{Question 19}{16}{section*.20}%
+\contentsline {section}{Question 20}{17}{section*.21}%
