@@ -1,1 +1,0 @@
-unoconv -f pdf Q4.emf && pdfcrop Q4.pdf Q4.pdf > /dev/null 2>&1

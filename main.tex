@@ -3,7 +3,6 @@
 \input{tools/lt2circuitikz-master/latex_ext.tex}
 \input{inc/Setup/Conf.tex}
 \input{inc/Setup/macros.tex}
-\input{tools/Kmaps/Kmaps.tex}
 
 \begin{document}
 
@@ -15,6 +14,11 @@
 \pagebreak
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                    % Abstract
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
                                     % Table of Contents
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -22,168 +26,83 @@
 \pagebreak
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q1
+                                    % Introduction (Task 1)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}
+\subsection{Background}
+\input{inc/intro/Backgroud.tex}
 
-\renewcommand{\Q}{Q1}
-\section*{Question 1}\addcontentsline{toc}{section}{Question 1}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q2
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Butterworth Filter}
+\input{inc/intro/Butterworth.tex}
 
-\renewcommand{\Q}{Q2}
-\section*{Question 2}\addcontentsline{toc}{section}{Question 2}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q3
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Chebyshev Filter}
+\input{inc/intro/Chebyshev.tex}
 
-\renewcommand{\Q}{Q3}
-\section*{Question 3}\addcontentsline{toc}{section}{Question 3}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q4
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\renewcommand{\Q}{Q4}
-\section*{Question 4}\addcontentsline{toc}{section}{Question 4}
-\input{inc/Q/\Q/\Q.tex}
+\subsection{Multiple Feedback Filter Topology}
+\input{inc/intro/Bessel.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q5
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                    % Results (task 2, 3)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%`
+\section{Results}
 
-\renewcommand{\Q}{Q5}
-\section*{Question 5}\addcontentsline{toc}{section}{Question 5}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q6
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Design requirements and specification}
+\input{inc/Results/Design.tex}
 
-\renewcommand{\Q}{Q6}
-\section*{Question 6}\addcontentsline{toc}{section}{Question 6}
-\input{inc/Q/\Q/\Q.tex}
+\subsection{Calculations}
+\input{inc/Results/Calculations.tex}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q7
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Simulation Results}
+\input{inc/Results/Simulation.tex}
 
-\renewcommand{\Q}{Q7}
-\section*{Question 7}\addcontentsline{toc}{section}{Question 7}
-\input{inc/Q/\Q/\Q.tex}
+\subsection{Schematic Design in LTSpice}
+\input{inc/Results/Schematic.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q8
+                                    % Discussion 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Discussion}
 
-\renewcommand{\Q}{Q8}
-\section*{Question 8}\addcontentsline{toc}{section}{Question 8}
-\input{inc/Q/\Q/\Q.tex}
+\subsection{Calculations for E24 Series Components}
+\input{inc/Discussion/Calc.tex}
+\subsection{Schematic Design for E24 Series Components}
+\input{inc/Discussion/Design.tex}
+\subsection{Results of Changing to E24 Series Components}
+\input{inc/Discussion/Results.tex}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q9
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{Effect of Component Tolerances}
+\input{inc/Discussion/Tolerances.tex}
 
-\renewcommand{\Q}{Q9}
-\section*{Question 9}\addcontentsline{toc}{section}{Question 9}
-\input{inc/Q/\Q/\Q.tex}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q10
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\renewcommand{\Q}{Q10}
-\section*{Question 10}\addcontentsline{toc}{section}{Question 10}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q11
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\renewcommand{\Q}{Q11}
-\section*{Question 11}\addcontentsline{toc}{section}{Question 11}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q12
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\renewcommand{\Q}{Q12}
-\section*{Question 12}\addcontentsline{toc}{section}{Question 12}
-\input{inc/Q/\Q/\Q.tex}
+\subsection{Design to Include Additional Amplification}
+\input{inc/Discussion/Amplification.tex}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q13
+                                    % Conclusion
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\renewcommand{\Q}{Q13}
-\section*{Question 13}\addcontentsline{toc}{section}{Question 13}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
+\section{Conclusion}
+\input{inc/Conclusion/Conclusion.tex}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q14
+                                    % References
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\renewcommand{\Q}{Q14}
-\section*{Question 14}\addcontentsline{toc}{section}{Question 14}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q15
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\renewcommand{\Q}{Q15}
-\section*{Question 15}\addcontentsline{toc}{section}{Question 15}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q16
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\renewcommand{\Q}{Q16}
-\section*{Question 16}\addcontentsline{toc}{section}{Question 16}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q17
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\renewcommand{\Q}{Q17}
-\section*{Question 17}\addcontentsline{toc}{section}{Question 17}
-\input{inc/Q/\Q/\Q.tex}
+\addcontentsline{toc}{section}{References}
+\bibliographystyle{IEEEtranN}
+\bibliography{biblist}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q18
+                                    % Appendix
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\renewcommand{\Q}{Q18}
-\section*{Question 18}\addcontentsline{toc}{section}{Question 18}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q19
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\appendix
+\section*{Appendices}\addcontentsline{toc}{section}{Appendices}\label{appendix:main}
+\renewcommand{\thesubsection}{\Alph{subsection}}
 
-\renewcommand{\Q}{Q19}
-\section*{Question 19}\addcontentsline{toc}{section}{Question 19}
-\input{inc/Q/\Q/\Q.tex}
-\pagebreak
+\subsection{Matlab Code}
+
+\subsection{LTSpice Code}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                                    % Q20
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\renewcommand{\Q}{Q20}
-\section*{Question 20}\addcontentsline{toc}{section}{Question 20}
-\input{inc/Q/\Q/\Q.tex}
-
-
-%\addcontentsline{toc}{section}{References}
-%\bibliographystyle{IEEEtranN}
-%\bibliography{biblist}
-
 \end{document}
 
 

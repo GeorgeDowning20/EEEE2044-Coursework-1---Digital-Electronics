@@ -178,6 +178,9 @@ class lt2circuiTikz:
         relfileandpath_orig = relfileandpath
         relfileandpath = self.translate2ospath(relfileandpath_orig) # localize to OS path, since LTSpice under Wine/Windows always uses \
 
+        if (relfileandpath == "sym32a/OpAmps/opamp.asy"):
+            relfileandpath = "sym32a/Opamps/opamp.asy"
+
        #print('Loading Symbol file "'+relfileandpath+'" (orig="'+relfileandpath_orig+'")...')
         # read symbol file
         self.symlinecnt = 0;
@@ -610,6 +613,10 @@ class lt2circuiTikz:
 
         # Component ( ctype,       x1,              y1,                rot,          mirror,                            name, value)
         c = Component(m.group(1), int(m.group(2)), int(m.group(3)), int(m.group(5)), (str.upper(m.group(4)) == 'M'),  '', "");
+        if (c.ctype == 'opamp'):
+            c.path = 'Opamps\\ '
+            c.pathandctype = 'Opamps\\\\opamp'
+        
         self._handleComponent_worker(c);
     
     def _handleComponent_worker(self, c):
@@ -619,7 +626,7 @@ class lt2circuiTikz:
             fullpath = self.symfilebasepath + c.pathandctype.replace('\\\\','\\');
             sym = self.readASYFile(fullpath+'.asy');
             sym.path = c.path;
-            sym.ctype = c.ctype;
+            sym.ctype = c.ctype;  
             sym.pathandctype = c.pathandctype;
             
             tsym = self.readASY2TexFile(fullpath+'.asy2tex',sym);

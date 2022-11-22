@@ -1,21 +1,22 @@
 \babel@toc {english}{}
-\contentsline {section}{Question 1}{2}{section*.2}%
-\contentsline {section}{Question 2}{3}{section*.3}%
-\contentsline {section}{Question 3}{4}{section*.4}%
-\contentsline {section}{Question 4}{5}{section*.5}%
-\contentsline {section}{Question 5}{5}{section*.6}%
-\contentsline {section}{Question 6}{6}{section*.7}%
-\contentsline {section}{Question 7}{6}{section*.8}%
-\contentsline {section}{Question 8}{6}{section*.9}%
-\contentsline {section}{Question 9}{7}{section*.10}%
-\contentsline {section}{Question 10}{7}{section*.11}%
-\contentsline {section}{Question 11}{8}{section*.12}%
-\contentsline {section}{Question 12}{9}{section*.13}%
-\contentsline {section}{Question 13}{9}{section*.14}%
-\contentsline {section}{Question 14}{10}{section*.15}%
-\contentsline {section}{Question 15}{11}{section*.16}%
-\contentsline {section}{Question 16}{12}{section*.17}%
-\contentsline {section}{Question 17}{13}{section*.18}%
-\contentsline {section}{Question 18}{15}{section*.19}%
-\contentsline {section}{Question 19}{16}{section*.20}%
-\contentsline {section}{Question 20}{17}{section*.21}%
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Background}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Butterworth Filter}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Chebyshev Filter}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Multiple Feedback Filter Topology}{2}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Results}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Design requirements and specification}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Calculations}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Simulation Results}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Schematic Design in LTSpice}{2}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Discussion}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Calculations for E24 Series Components}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Schematic Design for E24 Series Components}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Results of Changing to E24 Series Components}{2}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Effect of Component Tolerances}{2}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Design to Include Additional Amplification}{2}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Conclusion}{2}{section.4}%
+\contentsline {section}{References}{2}{section.4}%
+\contentsline {section}{Appendices}{2}{section*.3}%
+\contentsline {subsection}{\numberline {A}Matlab Code}{2}{subsection.Alph0.1}%
+\contentsline {subsection}{\numberline {B}LTSpice Code}{2}{subsection.Alph0.2}%

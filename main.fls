@@ -1,18 +1,18 @@
-PWD /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics
+PWD /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.tex
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.log
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.tex
+OUTPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/inlcude.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/inlcude.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/inlcude.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/inlcude.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
@@ -278,8 +278,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/catchfile/catchfile.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 INPUT /dev/null
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.w18
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.w18
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.w18
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.w18
 INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
@@ -320,8 +320,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibrarys
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/lt2circuitikz-master/latex_ext.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/lt2circuitikz-master/latex_ext.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/tools/lt2circuitikz-master/latex_ext.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/tools/lt2circuitikz-master/latex_ext.tex
 INPUT /usr/share/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/circuitikz/circuitikz.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
@@ -401,37 +401,35 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pg
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/shapes/circuits/pgflibraryshapes.gates.ee.IEC.code.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/Conf.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/Conf.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/Conf.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/Conf.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryangles.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryquotes.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarymatrix.code.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/macros.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/macros.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/Kmaps/Kmaps.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/tools/Kmaps/Kmaps.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/macros.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/macros.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.aex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.aex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.aux
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.aux
+OUTPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
+OUTPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.pdf
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
+OUTPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/ucsencs.def
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -480,11 +478,11 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/title_page.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Setup/title_page.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/uon.png
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/uon.png
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/uon.png
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/title_page.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Setup/title_page.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/uon.png
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/uon.png
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/uon.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
@@ -494,84 +492,43 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.toc
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.toc
-OUTPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.toc
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q1/Q1.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q1/Q1.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q2/Q2.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q2/Q2.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q3/Q3.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q3/Q3.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q4/Q4.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q5/Q5.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q6/Q6.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q6/Q6.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q7/Q7.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q7/Q7.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q8/Q8.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q8/Q8.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q9/Q9.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q9/Q9.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q10/Q10.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q11/Q11.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q12/Q12.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q13/Q13.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q13/Q13.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q14/Q14.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q14/Q14.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q15/Q15.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q15/Q15.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q16/Q16.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q16/Q16.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q17/Q17.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q17/Q17.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/Q18.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q18/mytestpwl.txt
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q19/Q19.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.tex
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/inc/Q/Q20/Q20.pdf
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.aux
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
-INPUT /home/g/Uni code/Electronic Processing and Communications (EEEE2044 UNUK)/EEEE2044 Coursework 1 - Digital Electronics/main.out
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.toc
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.toc
+OUTPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Backgroud.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Backgroud.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Butterworth.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Butterworth.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Chebyshev.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Chebyshev.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Bessel.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/intro/Bessel.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Design.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Design.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Calculations.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Calculations.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Simulation.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Simulation.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Schematic.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Results/Schematic.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Calc.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Calc.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Design.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Design.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Results.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Results.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Tolerances.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Tolerances.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Amplification.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Discussion/Amplification.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Conclusion/Conclusion.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/inc/Conclusion/Conclusion.tex
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.bbl
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.bbl
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.aux
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
+INPUT /home/g/Uni code/Practical Engineering Design Solutions and Project Development (EEEE2046 UNUK)/EEEEE2046 Electronics Project Filter Design Coursework/main.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
